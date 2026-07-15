@@ -1,3 +1,4 @@
+<img width="1867" height="877" alt="cartpage jpg" src="https://github.com/user-attachments/assets/1fd44d64-3bad-4496-a3d3-666953b1086f" />
 <img width="1777" height="768" alt="loginpage jpg" src="https://github.com/user-attachments/assets/a658ce1a-89a3-4896-bc3d-32e1dfb67a77" />
 <img width="1821" height="817" alt="register jpg" src="https://github.com/user-attachments/assets/42041007-9f61-4f4d-b072-09f7264271b0" />
 <img width="1873" height="850" alt="shoppingpage jpg" src="https://github.com/user-attachments/assets/576dfa1d-731b-43df-9d09-ee5a5569be03" />

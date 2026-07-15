@@ -1,3 +1,4 @@
+<img width="1721" height="865" alt="ordersuccesspage jpg" src="https://github.com/user-attachments/assets/a692d599-0256-44be-9bc9-5eb1acefebaf" />
 <img width="1682" height="817" alt="payment jpg" src="https://github.com/user-attachments/assets/5e35d39d-5f8d-4b6e-b076-594e73140ddf" />
 <img width="1878" height="890" alt="checkoutpage jpg" src="https://github.com/user-attachments/assets/ed044408-420c-44f6-ad8e-f28ac5aa4de0" />
 <img width="1867" height="877" alt="cartpage jpg" src="https://github.com/user-attachments/assets/1fd44d64-3bad-4496-a3d3-666953b1086f" />
